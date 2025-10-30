@@ -1,4 +1,4 @@
-# Program Mengolah Data Mahasiswa
+# Program Mengolah Data Mahasiswa C++
 Program ini bertujuan untuk mengelola data nilai mahasiswa dengan membaca nama dan nilai, menentukan grade berdasarkan skor, mencari nilai tertinggi, serta menampilkan daftar nilai dan mahasiswa dengan nilai tertinggi dalam format “Last Name, First Name”.
 
 ## Struct studentType
